@@ -1,5 +1,5 @@
 # 🖤 Welcome, I'm Darth Jabour
-![Darth Vader](https://upload.wikimedia.org/wikipedia/en/7/76/Darth_Vader.jpg)
+![Darth Vader](https://images4.alphacoders.com/124/thumb-1920-1249111.jpg)
 > "I break things to understand how they work — responsibly."  
 > *"You don't know the power of the dark side..."* – Darth Vader  
 > *"Unlimited power!" ⚡* – Emperor Palpatine
