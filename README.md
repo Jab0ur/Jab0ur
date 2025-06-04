@@ -31,8 +31,8 @@
 
 ## 📜 Certifications & Training
 
-- **Innovation, Sustainability, and Business Competitiveness** – 160h  
-- **Distributed and Mobile Systems** – 160h  
+- **Innovation, Sustainability, and Business Competitiveness**  
+- **Distributed and Mobile Systems**  
 - Active training in:  
   `Web Recon` • `Directory Brute Forcing` • `Privilege Escalation` • `Custom Scripting`
 
@@ -56,8 +56,7 @@ Explore my repositories for:
 
 ## 📫 Reach the Sith Temple
 
-- 🔗 [linkedin.com/in/seu-linkedin](https://linkedin.com/in/seu-linkedin)
-- ✉️ jabour@email.com
+- 🔗 [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/gabriel-jabour-286000245/)
 
 ---
 
