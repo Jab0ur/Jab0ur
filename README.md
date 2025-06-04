@@ -56,7 +56,7 @@ Explore my repositories for:
 
 ## 📫 Reach the Sith Temple
 
-- 🔗 [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/gabriel-jabour-286000245/)
+- 🔗 [linkedin](https://www.linkedin.com/in/gabriel-jabour-286000245/)
 
 ---
 
